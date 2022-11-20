@@ -1,0 +1,30 @@
+﻿body {
+	background-image: url('images/wallpaper.jpg');
+
+}
+
+.grid {
+    width: 80vh;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+	background-image: url('images/background.jpg');
+}
+
+    .grid div {
+        width: 8vh;
+        height:8vh;
+		
+    }
+
+.snake {
+    background-color: red;
+	
+}
+
+.apple {
+    background-color: purple;
+}
+
+
